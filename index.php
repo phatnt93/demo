@@ -1,1 +1,1 @@
-<?php echo 'kabuchiga'; ?>
+<?php echo 'hi 1'; ?>
