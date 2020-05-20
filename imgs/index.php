@@ -1,1 +1,1 @@
-<?php echo 'folder images 1111'; ?>
+<?php echo 'imgs - index'; ?>
